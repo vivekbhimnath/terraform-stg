@@ -1,0 +1,10 @@
+rg_Name = "mynewdev-rg"
+location = "East US"
+vnet1 = "dev-samplevnet1"
+address_space = ["10.0.0.0/16"]
+subnet1 = "dev-samplesubnet1"
+address_prefix = ["10.0.2.0/24"]
+stg_Name = "devstgacc1"
+acc_tier = "Standard"
+acc_kind = "BlobStorage"
+access_tier = "Hot"
